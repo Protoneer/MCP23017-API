@@ -1,0 +1,7 @@
+{
+  "name" : "MCP23017-API",
+  "description" : "MCP23017-API",
+  "dependencies" :
+  { "node-static" : "0.7.x"
+  }
+}
