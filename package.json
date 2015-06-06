@@ -1,5 +1,6 @@
 {
   "name" : "MCP23017-API",
+  "version" : "1.0.0",
   "description" : "MCP23017-API",
   "dependencies" :
   { 
